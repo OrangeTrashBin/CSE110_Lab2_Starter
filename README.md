@@ -1,3 +1,3 @@
-# Lab 3 - Starter
+# Lab 2 - Starter
 
-Here's the [link](https://orangetrashbin.github.io/CSE110_Lab3_Starter/) to my website.
+Here's the [link](https://orangetrashbin.github.io/CSE110_Lab2_Starter/) to my website.
